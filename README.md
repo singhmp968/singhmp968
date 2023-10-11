@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Rahul Singh Yadav</h1>
-<h3 align="center">A passionate MERN Stack developer from India</h3>
+<h3 align="center">A passionate Salesforce developer and have good knowledge of MERN Stack developer </h3>
 
 - 📫 How to reach me **rahulsinghmp968@gmail.com**
 
